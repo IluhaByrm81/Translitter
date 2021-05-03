@@ -1,0 +1,25 @@
+{
+  "name": "assessment-0-translit",
+  "version": "1.0.0",
+  "description": "![screenshot](pic.gif) ## Введение Тебе предстоит разработать веб-приложение, которое будет превращать текст на русском языке в его транслитерацию и сохранять её в словарик. С чего начать? Обычно, когда даётся задача в таком абстрактном виде, то её надо разбить на подзадачи. Этот процесс, говоря более умными словами, называется __декомпозиция__. Тебе повезло, мы уже провели декомпозицию - разбили задачу на релизы!",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IluhaByrm81/assessment-0-translit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IluhaByrm81/assessment-0-translit/issues"
+  },
+  "homepage": "https://github.com/IluhaByrm81/assessment-0-translit#readme",
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
